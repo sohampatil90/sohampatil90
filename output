@@ -1,0 +1,7 @@
+{
+  "land": 10,
+  "soilType": "clay",
+  "water": 5000,
+  "budget": 1000,
+  "weather": "rainy"
+}
