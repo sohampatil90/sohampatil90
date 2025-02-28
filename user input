@@ -1,5 +1,5 @@
 Enter land available (in acres): 10
-Enter soil type (e.g., sandy, loamy, clay): loamy
+Enter soil type (e.g., Black Soil ,Saline and Alkaline Soil ,Red Soil ): Black soil
 Enter water availability (in liters per acre): 5000
 Enter expected budget (in Rs): 10000
 Enter current weather condition (e.g., rainy, dry, humid): rainy
