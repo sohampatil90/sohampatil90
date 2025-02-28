@@ -1,0 +1,5 @@
+Enter land available (in acres): 10
+Enter soil type (e.g., sandy, loamy, clay): loamy
+Enter water availability (in liters per acre): 5000
+Enter expected budget (in USD): 1000
+Enter current weather condition (e.g., rainy, dry, humid): rainy
